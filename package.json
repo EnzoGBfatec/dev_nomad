@@ -1,0 +1,26 @@
+{
+  "name": "0.0.1",
+  "version": "0.0.1",
+  "description": "Backend Javascript SOLID Clean Archtitecture Engine Infrastructure",
+  "keywords": [
+    "turma12"
+  ],
+  "homepage": "https://github.com/EnzoGBfatec/dev_nomad#readme",
+  "bugs": {
+    "url": "https://github.com/EnzoGBfatec/dev_nomad/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EnzoGBfatec/dev_nomad.git"
+  },
+  "license": "MIT",
+  "author": "Enzo GB",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "firebase": "^12.18.0"
+  }
+}
