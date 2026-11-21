@@ -7,3 +7,5 @@ export const firebaseConfig = {
   appId: "1:724816279928:web:d39e8c89d8ba1e2102308d",
   measurementId: "G-JB1VZTTTL9"
 };
+//Aula1118 - Ajustes de Esteira de Rotas
+export default firebase;
